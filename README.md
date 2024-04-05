@@ -53,7 +53,7 @@ The following API endpoints have been successfully implemented in the initial ph
      
 ## Frontend Repository Link
   - The frontend code associated with this project can be found at the following repository:
-  - link : 
+  - link : https://github.com/johnsun2618/CustomerApplicationService_Frontend
 
 ## Setup and Usage
 To set up and utilize this project, follow these steps:
